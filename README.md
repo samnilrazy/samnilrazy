@@ -13,7 +13,7 @@
   <img align="top" alt="ssss" width="120"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/089cf2e6-1a07-42af-bcf6-e3528d46e5d4/dbego2w-b564d0f5-7663-4467-84a3-3b49690d9586.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4OWNmMmU2LTFhMDctNDJhZi1iY2Y2LWUzNTI4ZDQ2ZTVkNFwvZGJlZ28ydy1iNTY0ZDBmNS03NjYzLTQ0NjctODRhMy0zYjQ5NjkwZDk1ODYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vkeJm4pVPOuV0ZJgih7trzoJVXqjauXka8wNjw-oWjo"
 </div>
 
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,4 +21,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div> -->
+    
+ <div> 
+  <a href="https://www.youtube.com/c/imnocheating" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href="mailto:samnilrazy@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/samnilrazy"><img src="hhttps://img.shields.io/badge/-SamNilrazy-%23333?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>

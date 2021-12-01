@@ -4,6 +4,8 @@
 -- 🖊 Apredendo...
 -- ⭐ Curtindo...
 
+
+<link rel="stylesheet" type="text/css" src="estt.css"
 <div align="left">
   <a href="https://github.com/samnilrazy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samnilrazy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

@@ -25,6 +25,6 @@
 </div> -->
     
  <div> 
-  <a href="https://t.me/samniilrazy"><img src="https://img.shields.io/badge/-SamNilrazy-%23333?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a>
+  <a href="https://t.me/samniilrazy"><img src="https://img.shields.io/badge/-SamNilrazy-%23333?style=for-the-badge&logo=telegram&logoColor=blue" target="_blank"></a>
   <a href="https://wa.me/+556592801273"><img src="https://img.shields.io/badge/-SamNilrazy-%23333?style=for-the-badge&logo=whatsapp&logoColor=cian" target="_blank"></a>
 </div>
